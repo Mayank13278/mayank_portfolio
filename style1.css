@@ -1,0 +1,40 @@
+.menu{
+            list-style:none;
+            display:flex;
+            justify-content:space-evenly;
+            font-size:30px;
+            font-family:cursive;
+            background-color: rgb(245, 245, 212);
+         }
+         .menu a li{ 
+            color:red;
+         }
+         .menu li{
+            color:green;
+         }
+        #li_1:hover{
+            color:blue;
+            text-decoration:underline;
+            text-decoration-color:rgb(242, 135, 183) ;
+            
+        }
+        #li_2:hover{
+            color:blue;
+            text-decoration: underline;
+            text-decoration-color:rgb(242, 135, 183) ;
+        }
+        #li_3:hover{
+            color:blue;
+            text-decoration: underline;
+            text-decoration-color:rgb(242, 135, 183) ;
+        }
+        #li_4:hover{
+            color:blue;
+            text-decoration: underline;
+            text-decoration-color:rgb(242, 135, 183) ;
+        }
+        #li_5:hover{
+            color:blue;
+            text-decoration: underline;
+            text-decoration-color:rgb(242, 135, 183) ;
+        }
